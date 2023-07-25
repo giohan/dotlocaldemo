@@ -1,7 +1,7 @@
 apiVersion: atlas.mongodb.com/v1
 kind: AtlasDeployment
 metadata:
-  name: gitops-cluster
+  name: gitops-cluster-1
   labels:
     app.kubernetes.io/version: 1.6.0
 spec:
